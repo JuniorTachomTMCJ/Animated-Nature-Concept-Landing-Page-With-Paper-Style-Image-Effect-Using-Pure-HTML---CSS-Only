@@ -12,8 +12,8 @@ This is an implementation of a [youtube tutorial](https://www.youtube.com/watch?
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL : [https://github.com/JuniorTachomTMCJ/Animated-Nature-Concept-Landing-Page-With-Paper-Style-Image-Effect-Using-Pure-HTML---CSS-Only.git](https://github.com/JuniorTachomTMCJ/Animated-Nature-Concept-Landing-Page-With-Paper-Style-Image-Effect-Using-Pure-HTML---CSS-Only.git)
+- Live Site URL : [https://juniortachomtmcj.github.io/Animated-Nature-Concept-Landing-Page-With-Paper-Style-Image-Effect-Using-Pure-HTML---CSS-Only/](https://juniortachomtmcj.github.io/Animated-Nature-Concept-Landing-Page-With-Paper-Style-Image-Effect-Using-Pure-HTML---CSS-Only/)
 
 ### Built with
 
